@@ -1,0 +1,54 @@
+body {
+    background-color: #141414;
+}
+.navbar {
+    background-color: #141414;
+}
+.icon-color {
+    color: #8f8d91;
+}
+.ul-no-bullets  {
+    list-style: none;
+    padding-left: 0px;
+}
+.service-code {
+    color: #8f8d91;
+    border: #8f8d91;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+}
+p {
+    color: #8f8d91;
+}
+.text-white {
+    color: white;
+}
+.icon-border {
+    color: #8f8d91;
+    border: #8f8d91;
+    border-style: solid;
+    border-width: 1px;
+    width: 50px;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.genres-menu {
+    background-color: black;
+    border: #8f8d91;
+    border-style: solid;
+    border-width: 1px;
+    padding: 5px;
+    margin: 0px;
+}
+h5 {
+    color: white;
+}
+.fade_out {
+    opacity: 0;
+}
+.fade_transition {
+    transition-property: opacity;
+    transition-duration: 2s;
+}
